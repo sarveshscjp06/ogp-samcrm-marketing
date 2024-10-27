@@ -8,6 +8,7 @@ package com.raagatech.samcrm.marketing;
 /**
  *
  * @author sarve
+ * The services of this sub-project is about Marketing Application under SAMCRM project
  */
 public class OgpSamcrmMarketing {
 

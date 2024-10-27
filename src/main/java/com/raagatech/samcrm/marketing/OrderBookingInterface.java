@@ -14,6 +14,7 @@ import java.util.ArrayList;
 /**
  *
  * @author sarve
+ * The services of this sub-project is about Marketing Application under SAMCRM project
  */
 public interface OrderBookingInterface {
     public void createOrder(OrderDataBean orderDataBean) throws Exception;
